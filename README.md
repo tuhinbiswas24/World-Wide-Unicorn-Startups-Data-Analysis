@@ -1,6 +1,6 @@
-**<h2>World Wide Unicorn Startup Data Science Project** <\h2>
+**<h2>World Wide Unicorn Startup Data Science Project** 
 
-This project aims to analyze and visualize the data of unicorn startups, which are privately held companies valued at over $1 billion. The project uses data from CB Insights, which tracks the unicorn startups around the world. The project covers the following aspects:
+<h1>This project aims to analyze and visualize the data of unicorn startups, which are privately held companies valued at over $1 billion. The project uses data from CB Insights, which tracks the unicorn startups around the world. The project covers the following aspects:
 
 1.The distribution of unicorn startups by country, city, and industry
 
