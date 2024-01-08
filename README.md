@@ -3,6 +3,11 @@
 <h5>This project aims to analyze and visualize the data of unicorn startups, which are privately held companies valued at over $1 billion.The project covers the following aspects:
 
 
+
+
+
+
+
 1.The distribution of unicorn startups by country, city, and industry
 
 2.The trends of unicorn startups over time, by year and month
