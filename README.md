@@ -1,6 +1,6 @@
-**<h2>World Wide Unicorn Startup Data Science Project** 
+**<h5>World Wide Unicorn Startup Data Science Project** 
 
-<h1>This project aims to analyze and visualize the data of unicorn startups, which are privately held companies valued at over $1 billion. The project uses data from CB Insights, which tracks the unicorn startups around the world. The project covers the following aspects:
+<h1>This project aims to analyze and visualize the data of unicorn startups, which are privately held companies valued at over $1 billion.The project covers the following aspects:
 
 1.The distribution of unicorn startups by country, city, and industry
 
@@ -10,17 +10,23 @@
 
 **To run this project, you will need the following:**
 
-Python 3.7 or higher
-Jupyter Notebook or Google Colab
-Pandas, NumPy, SciPy, Seaborn, Matplotlib, Plotly, and other libraries for data analysis and visualization
+1.Python 3.7 or higher
+
+2.Jupyter Notebook or Google Colab
+
+3.Pandas, NumPy, SciPy, Seaborn, Matplotlib, Plotly, and other libraries for data analysis and visualization
 
 **To install this project, follow these steps:**
 
-Clone this repository or download the zip file
-Create a virtual environment and activate it
-Install the required libraries using pip install -r requirements.txt
-Create a PostgreSQL database and load the data from the Startups.csv file
-Modify the config.py file with your database credentials
+1.Clone this repository or download the zip file
+
+2.Create a virtual environment and activate it
+
+3.Install the required libraries using pip install -r requirements.txt
+
+4.Create a PostgreSQL database and load the data from the Startups.csv file
+
+5.Modify the config.py file with your database credentials
 
 **Usage**
 
