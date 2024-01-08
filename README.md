@@ -36,7 +36,7 @@
 
 
 <h5>
-1.Open the Unicorn_Startups.ipynb notebook in Jupyter Notebook or Google Colab
+1.Open the World_Wide_Unicorn_Startups.ipynb notebook in Jupyter Notebook or Google Colab
 
 2.Run the cells in order, or use the Run All option
 
