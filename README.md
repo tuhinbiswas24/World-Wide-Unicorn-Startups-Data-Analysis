@@ -31,12 +31,13 @@
 
 **<h2>Usage</h2>**
 
-<h5>To use this project, follow these steps:
+**<h3>To use this project, follow these steps:</h3>**
 
-1.Open the Unicorn_Startups.ipynb notebook in Jupyter Notebook or Google Colab
+
+<h5>1.Open the Unicorn_Startups.ipynb notebook in Jupyter Notebook or Google Colab
 
 2.Run the cells in order, or use the Run All option
 
 3.Explore the data analysis and visualization results
 
-4.Modify the code or add new cells as per your needs
+4.Modify the code or add new cells as per your needs</h5>
