@@ -13,6 +13,7 @@
 
 <h5>1.Python 3.7 or higher
 
+
 2.Jupyter Notebook or Google Colab
 
 3.Pandas, NumPy, SciPy, Seaborn, Matplotlib, Plotly, and other libraries for data analysis and visualization</h5>
