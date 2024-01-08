@@ -1,12 +1,12 @@
-**<h5>World Wide Unicorn Startup Data Science Project</h5>** 
+**<h1>World Wide Unicorn Startup Data Science Project</h1>** 
 
-<h1>This project aims to analyze and visualize the data of unicorn startups, which are privately held companies valued at over $1 billion.The project covers the following aspects:
+<h5>This project aims to analyze and visualize the data of unicorn startups, which are privately held companies valued at over $1 billion.The project covers the following aspects:
 
 1.The distribution of unicorn startups by country, city, and industry
 
 2.The trends of unicorn startups over time, by year and month
 
-3.The valuation of unicorn startups, by industry and investors
+3.The valuation of unicorn startups, by industry and investors</h5>
 
 **To run this project, you will need the following:**
 
