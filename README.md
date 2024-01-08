@@ -3,8 +3,10 @@
 This project aims to analyze and visualize the data of unicorn startups, which are privately held companies valued at over $1 billion. The project uses data from CB Insights, which tracks the unicorn startups around the world. The project covers the following aspects:
 
 1.The distribution of unicorn startups by country, city, and industry
-1.The trends of unicorn startups over time, by year and month
-1.The valuation of unicorn startups, by industry and investors
+
+2.The trends of unicorn startups over time, by year and month
+
+3.The valuation of unicorn startups, by industry and investors
 
 **To run this project, you will need the following:**
 
